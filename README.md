@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MwangiJim
-- 👀 I’m interested in web development
+- 👀 I’m interested in Backend Projects
 - 🌱 I’m currently learning the backend Node
-- 💞️ I’m looking to collaborate on Front end projects
+- 💞️ I’m looking to collaborate on Backend Projects
 - 📫 How to reach me [kingongomwangi@gmail.com]
 
 <!---
